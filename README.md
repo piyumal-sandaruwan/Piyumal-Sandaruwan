@@ -4,7 +4,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/piyumal-sandaruwan">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=ICT+Undergraduate;Full+Stack+Learner;Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=435&lines=ICT+Undergraduate;Full+Stack+Learner;Tech+Enthusiast" alt="Typing SVG"align="center" />
   </a>
 </p>
 
